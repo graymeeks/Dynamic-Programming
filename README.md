@@ -1,8 +1,7 @@
 # Dynamic-Programming
 Various scripts/programs that tackle problems using dynamic programming techniques.
 
-
-
+\n\n\n
 
 Combinations.py: Calculates binomial coefficients based on a user inputted "m choose n" problem
 
